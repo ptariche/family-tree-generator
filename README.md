@@ -4,7 +4,7 @@ Family Tree Generator -- Converts a Google Spreadsheet to a PNG Graph
 ### Google Spreadsheet
  - Copy/Duplicate the Spreadsheet at https://docs.google.com/spreadsheets/d/19q_eE2wclqLL8039WozLz-LquhcOPMGyy1hCdHUHr64/edit?usp=sharing
  - Modify the spreadsheet to your/a family/ancestors
- - Download a copy of the file
+ - Download a copy of the file as CSV
 
 ### How to Run
  - npm install
@@ -26,3 +26,6 @@ Family Tree Generator -- Converts a Google Spreadsheet to a PNG Graph
 
 ### License
   - MIT
+
+### Project Information
+  - This project was created in celebration of [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/)
