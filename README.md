@@ -7,19 +7,22 @@ Family Tree Generator -- Converts a Google Spreadsheet to a PNG Graph
  - Download a copy of the file
 
 ### How to Run
+ - npm install
  - CSV_FILE=<FILE_PATH_OF_CSV> PNG_OUTPUT=<FILE_PATH_OF_PNG_OUTPUT> npm start
 
+### Example
+  - [CSV File](./examples/example_family.csv)
+
+![Family Tree](./examples/example_family.png)
+
+
 ### Dependencies
-  - csvtojson
-  - json2yaml
-  - kingraph
+  - [csvtojson](https://www.npmjs.com/package/csvtojson)
+  - [json2yaml](https://www.npmjs.com/package/json2yaml)
+  - [kingraph](https://github.com/rstacruz/kingraph)
 
 ### Author
   - Peter A. Tariche
 
 ### License
   - MIT
-
-### Example
-  - [CSV File](./examples/example_family.csv)
-  - ![Family Tree](./examples/example_family.png)
