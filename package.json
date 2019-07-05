@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ptariche/family-tree-generator#readme",
   "dependencies": {
-    "csvtojson": "^2.0.8",
+    "csvtojson": "^2.0.10",
     "json2yaml": "^1.1.0",
     "kingraph": "github:rstacruz/kingraph"
   }
